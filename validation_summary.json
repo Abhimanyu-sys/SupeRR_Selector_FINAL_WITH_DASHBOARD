@@ -1,0 +1,331 @@
+{
+  "rows": 200999,
+  "eligible_rows": 193988,
+  "matches": 837,
+  "competitions": 136,
+  "revised_overs_matches": 34,
+  "threshold_top10": {
+    "0.42": {
+      "batters": [
+        "Babar Azam",
+        "Ruturaj Gaikwad",
+        "Reeza Hendricks",
+        "Faf du Plessis",
+        "Tim David",
+        "Prabhsimran Singh",
+        "Heinrich Klaasen",
+        "Sanju Samson",
+        "Jos Buttler",
+        "Glenn Maxwell"
+      ],
+      "bowlers": [
+        "Shaheen Afridi",
+        "Jasprit Bumrah",
+        "Varun Chakravarthy",
+        "Craig Young",
+        "Akash Madhwal",
+        "Zakary Foulkes",
+        "Wanindu Hasaranga",
+        "Tim Southee",
+        "Haris Rauf",
+        "Kuldeep Yadav"
+      ]
+    },
+    "0.48": {
+      "batters": [
+        "Babar Azam",
+        "Ruturaj Gaikwad",
+        "Shreyas Iyer",
+        "Jos Buttler",
+        "Shai Hope",
+        "Glenn Phillips",
+        "Tim David",
+        "Jitesh Sharma",
+        "Fakhar Zaman",
+        "Mark Chapman"
+      ],
+      "bowlers": [
+        "Shaheen Afridi",
+        "Abrar Ahmed",
+        "Umran Malik",
+        "Tim Southee",
+        "Hasan Mahmud",
+        "Taskin Ahmed",
+        "Lungi Ngidi",
+        "Spencer Johnson",
+        "Zakary Foulkes",
+        "Varun Chakravarthy"
+      ]
+    },
+    "0.54": {
+      "batters": [
+        "David Miller",
+        "Dhruv Jurel",
+        "Fakhar Zaman",
+        "Mark Chapman",
+        "Harry Tector",
+        "Jos Buttler",
+        "Suryakumar Yadav",
+        "Ishan Kishan",
+        "Sanju Samson",
+        "Riyan Parag"
+      ],
+      "bowlers": [
+        "Sean Abbott",
+        "Benjamin Sears",
+        "Umran Malik",
+        "Shaheen Afridi",
+        "Jofra Archer",
+        "Abrar Ahmed",
+        "Gerald Coetzee",
+        "Shadab Khan",
+        "Tim Southee",
+        "Lungi Ngidi"
+      ]
+    }
+  },
+  "batters": [
+    {
+      "striker_name": "Babar Azam",
+      "score_0_100": 95.36082474226804,
+      "pressure_balls": 112.0,
+      "pressure_matches": 8,
+      "eligible_thresholds": 2,
+      "top10_appearances": 2,
+      "rank_min": 1,
+      "rank_max": 1,
+      "positive_benchmark_match_share": 0.875,
+      "median_benchmark_margin": 50.28660117498458
+    },
+    {
+      "striker_name": "Ruturaj Gaikwad",
+      "score_0_100": 91.64948453608245,
+      "pressure_balls": 97.0,
+      "pressure_matches": 14,
+      "eligible_thresholds": 2,
+      "top10_appearances": 2,
+      "rank_min": 2,
+      "rank_max": 2,
+      "positive_benchmark_match_share": 0.6428571428571429,
+      "median_benchmark_margin": 32.322499819314004
+    },
+    {
+      "striker_name": "Shreyas Iyer",
+      "score_0_100": 86.98453608247424,
+      "pressure_balls": 360.0,
+      "pressure_matches": 32,
+      "eligible_thresholds": 3,
+      "top10_appearances": 1,
+      "rank_min": 3,
+      "rank_max": 33,
+      "positive_benchmark_match_share": 0.65625,
+      "median_benchmark_margin": 37.50407014172298
+    },
+    {
+      "striker_name": "Jos Buttler",
+      "score_0_100": 84.69072164948453,
+      "pressure_balls": 258.0,
+      "pressure_matches": 23,
+      "eligible_thresholds": 3,
+      "top10_appearances": 3,
+      "rank_min": 4,
+      "rank_max": 9,
+      "positive_benchmark_match_share": 0.6956521739130435,
+      "median_benchmark_margin": 32.72490221642764
+    },
+    {
+      "striker_name": "Shai Hope",
+      "score_0_100": 81.64948453608248,
+      "pressure_balls": 114.0,
+      "pressure_matches": 10,
+      "eligible_thresholds": 2,
+      "top10_appearances": 1,
+      "rank_min": 5,
+      "rank_max": 18,
+      "positive_benchmark_match_share": 0.7,
+      "median_benchmark_margin": 19.700754994765514
+    },
+    {
+      "striker_name": "Glenn Phillips",
+      "score_0_100": 80.87628865979381,
+      "pressure_balls": 233.0,
+      "pressure_matches": 25,
+      "eligible_thresholds": 3,
+      "top10_appearances": 1,
+      "rank_min": 6,
+      "rank_max": 28,
+      "positive_benchmark_match_share": 0.52,
+      "median_benchmark_margin": 19.23060792424885
+    },
+    {
+      "striker_name": "Tim David",
+      "score_0_100": 80.72164948453609,
+      "pressure_balls": 601.0,
+      "pressure_matches": 58,
+      "eligible_thresholds": 3,
+      "top10_appearances": 2,
+      "rank_min": 5,
+      "rank_max": 20,
+      "positive_benchmark_match_share": 0.5689655172413793,
+      "median_benchmark_margin": 26.100970592496026
+    },
+    {
+      "striker_name": "Jitesh Sharma",
+      "score_0_100": 79.89690721649485,
+      "pressure_balls": 339.0,
+      "pressure_matches": 34,
+      "eligible_thresholds": 3,
+      "top10_appearances": 1,
+      "rank_min": 8,
+      "rank_max": 42,
+      "positive_benchmark_match_share": 0.5882352941176471,
+      "median_benchmark_margin": 18.53701433612033
+    },
+    {
+      "striker_name": "Fakhar Zaman",
+      "score_0_100": 79.27835051546393,
+      "pressure_balls": 113.0,
+      "pressure_matches": 12,
+      "eligible_thresholds": 2,
+      "top10_appearances": 2,
+      "rank_min": 3,
+      "rank_max": 9,
+      "positive_benchmark_match_share": 0.5833333333333334,
+      "median_benchmark_margin": 30.247996748084933
+    },
+    {
+      "striker_name": "Mark Chapman",
+      "score_0_100": 77.5257731958763,
+      "pressure_balls": 237.0,
+      "pressure_matches": 18,
+      "eligible_thresholds": 3,
+      "top10_appearances": 2,
+      "rank_min": 4,
+      "rank_max": 22,
+      "positive_benchmark_match_share": 0.7777777777777778,
+      "median_benchmark_margin": 19.641805965619024
+    }
+  ],
+  "bowlers": [
+    {
+      "bowler_name": "Shaheen Afridi",
+      "score_0_100": 88.10924369747899,
+      "pressure_balls": 290.0,
+      "pressure_matches": 34,
+      "eligible_thresholds": 3,
+      "top10_appearances": 3,
+      "rank_min": 1,
+      "rank_max": 4,
+      "positive_benchmark_match_share": 0.7352941176470589,
+      "median_benchmark_margin": 2.2819738167170183
+    },
+    {
+      "bowler_name": "Abrar Ahmed",
+      "score_0_100": 87.94117647058823,
+      "pressure_balls": 289.0,
+      "pressure_matches": 27,
+      "eligible_thresholds": 2,
+      "top10_appearances": 2,
+      "rank_min": 2,
+      "rank_max": 6,
+      "positive_benchmark_match_share": 0.9259259259259259,
+      "median_benchmark_margin": 4.630068787280903
+    },
+    {
+      "bowler_name": "Umran Malik",
+      "score_0_100": 87.47899159663865,
+      "pressure_balls": 180.0,
+      "pressure_matches": 17,
+      "eligible_thresholds": 2,
+      "top10_appearances": 2,
+      "rank_min": 3,
+      "rank_max": 3,
+      "positive_benchmark_match_share": 0.5294117647058824,
+      "median_benchmark_margin": 0.3041162725628457
+    },
+    {
+      "bowler_name": "Tim Southee",
+      "score_0_100": 85.84033613445378,
+      "pressure_balls": 235.0,
+      "pressure_matches": 25,
+      "eligible_thresholds": 3,
+      "top10_appearances": 3,
+      "rank_min": 4,
+      "rank_max": 9,
+      "positive_benchmark_match_share": 0.72,
+      "median_benchmark_margin": 2.2819738167170183
+    },
+    {
+      "bowler_name": "Hasan Mahmud",
+      "score_0_100": 83.57142857142857,
+      "pressure_balls": 126.0,
+      "pressure_matches": 11,
+      "eligible_thresholds": 2,
+      "top10_appearances": 1,
+      "rank_min": 5,
+      "rank_max": 11,
+      "positive_benchmark_match_share": 0.6363636363636364,
+      "median_benchmark_margin": 2.8041162725628457
+    },
+    {
+      "bowler_name": "Taskin Ahmed",
+      "score_0_100": 82.9201680672269,
+      "pressure_balls": 308.0,
+      "pressure_matches": 36,
+      "eligible_thresholds": 3,
+      "top10_appearances": 1,
+      "rank_min": 6,
+      "rank_max": 24,
+      "positive_benchmark_match_share": 0.6388888888888888,
+      "median_benchmark_margin": 1.2819738167170183
+    },
+    {
+      "bowler_name": "Lungi Ngidi",
+      "score_0_100": 82.56302521008404,
+      "pressure_balls": 237.0,
+      "pressure_matches": 27,
+      "eligible_thresholds": 3,
+      "top10_appearances": 2,
+      "rank_min": 7,
+      "rank_max": 13,
+      "positive_benchmark_match_share": 0.6296296296296297,
+      "median_benchmark_margin": 1.2819738167170183
+    },
+    {
+      "bowler_name": "Spencer Johnson",
+      "score_0_100": 79.2016806722689,
+      "pressure_balls": 95.0,
+      "pressure_matches": 11,
+      "eligible_thresholds": 2,
+      "top10_appearances": 1,
+      "rank_min": 8,
+      "rank_max": 22,
+      "positive_benchmark_match_share": 0.6363636363636364,
+      "median_benchmark_margin": 2.2819738167170183
+    },
+    {
+      "bowler_name": "Zakary Foulkes",
+      "score_0_100": 78.69747899159663,
+      "pressure_balls": 104.0,
+      "pressure_matches": 14,
+      "eligible_thresholds": 3,
+      "top10_appearances": 2,
+      "rank_min": 6,
+      "rank_max": 40,
+      "positive_benchmark_match_share": 0.7857142857142857,
+      "median_benchmark_margin": 2.4409021612501887
+    },
+    {
+      "bowler_name": "Varun Chakravarthy",
+      "score_0_100": 77.3529411764706,
+      "pressure_balls": 785.0,
+      "pressure_matches": 66,
+      "eligible_thresholds": 3,
+      "top10_appearances": 2,
+      "rank_min": 3,
+      "rank_max": 12,
+      "positive_benchmark_match_share": 0.6060606060606061,
+      "median_benchmark_margin": 1.8041162725628457
+    }
+  ]
+}
